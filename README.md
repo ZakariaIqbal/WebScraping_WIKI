@@ -30,17 +30,20 @@ To run this project locally, you need to have Python installed along with the re
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Web-Scraping-Project.git](https://github.com/ZakariaIqbal/WebScraping_WIKI.git)
+   git clone https://github.com/ZakariaIqbal/WebScraping_WIKI.git
 
 2. Install the dependencies:
+   
   ```bash
   pip install -r requirements.txt
   ```
 3. Run the notebook:
+   
   ```bash
   jupyter notebook
   ```
 ## Project Structure 
+
   ```bash
   .
   ├── Web_Scraping_Project.ipynb  # Jupyter Notebook
